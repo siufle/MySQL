@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layer/layer.iml" filepath="$PROJECT_DIR$/layer/layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql.iml" filepath="$PROJECT_DIR$/mysql.iml" />
+    </modules>
+  </component>
+</project>
